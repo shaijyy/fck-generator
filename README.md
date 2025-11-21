@@ -44,11 +44,12 @@ This allows us to:
 
 The `/recreation-source/` and `/recreation-compiled` versions are a cleaned-up take on the original:
 
-- Removed sponsored Printful “Print a T-Shirt” button  
+- Removed sponsored items  
 - Added several new fonts  
 - Added **light/dark mode**  
 - Cleaned layout and simplified code  
-- Preserves original behavior  
+- Preserves original behavior
+- **REMOVE TELEMETRY** Original Version Logged your IP and the text you entered, as well as various data such as your ISP info, usage rate, and more. yikes.  
 
 ---
 
