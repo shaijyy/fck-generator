@@ -1,6 +1,6 @@
 ## FCK Generator | Restoration, Source & Recreation
 
-This repository preserves **fck-generator.com**, the site that let users generate the iconic <span style="display:inline-block; vertical-align:middle;"><img width="30" src="fck.png"/></span> sticker-style graphics.
+This repository preserves **fck-generator.com**, the site that let users generate the iconic <img width="30" src="fck.png" align="absmiddle"/> sticker-style graphics.
 
 The original domain disappeared, but a **version of it is still live via Firebase**, and the Firebase version includes the **original React source code**. This repo documents both the **recovered assets** and the **recreation**.
 
